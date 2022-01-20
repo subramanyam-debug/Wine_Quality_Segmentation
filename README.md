@@ -1,0 +1,2 @@
+# Wine_Quality_Segmentation
+Wine quality depends on a lot of factors like alcohol content,presence of sulphates,its pH values etc.The taste,smell and potency of the wine is defined by its chemical ingredients and its percentages in wines. A restaurant needs to classify its wines into different categories depending on its ingredients and label it accordingly for its different category of customers. Using K-means clustering algorithm classify the wines into appropriate distinguished optimal clusters having similar properties in each cluster. 
